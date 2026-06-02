@@ -5,4 +5,4 @@ Sistema de gestão de livros em linguagem C com menu interativo.
 gcc -o biblioteca main.c biblioteca.c
 
 ## Executar
-./biblioteca
+./biblioteca.exe
